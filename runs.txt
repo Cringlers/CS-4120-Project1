@@ -1,0 +1,232 @@
+Bubble Sort:
+------------------------------------------------------------
+# of comparisons for 8000 item list in random order: 31996000
+Time taken: 126430 microseconds
+
+# of comparisons for 4000 item list in random order: 7998000
+Time taken: 46996.2 microseconds
+
+# of comparisons for 2000 item list in random order: 1999000
+Time taken: 15296.2 microseconds
+
+# of comparisons for 1000 item list in random order: 499500
+Time taken: 4040.8 microseconds
+
+# of comparisons for 8000 item list in ascending order: 7999
+Time taken: 26.5 microseconds
+
+# of comparisons for 4000 item list in ascending order: 3999
+Time taken: 13.5 microseconds
+
+# of comparisons for 2000 item list in ascending order: 1999
+Time taken: 14.9 microseconds
+
+# of comparisons for 1000 item list in ascending order: 999
+Time taken: 3 microseconds
+
+# of comparisons for 8000 item list in descending order: 31996000
+Time taken: 163618 microseconds
+
+# of comparisons for 4000 item list in descending order: 7998000
+Time taken: 64492.7 microseconds
+
+# of comparisons for 2000 item list in descending order: 1999000
+Time taken: 11443.4 microseconds
+
+# of comparisons for 1000 item list in descending order: 499500
+Time taken: 2948.1 microseconds
+
+
+Insertion Sort:
+------------------------------------------------------------
+# of comparisons for 8000 item list in random order: 22050163
+Time taken: 74303.4 microseconds
+
+# of comparisons for 4000 item list in random order: 5571248
+Time taken: 16401.5 microseconds
+
+# of comparisons for 2000 item list in random order: 1409682
+Time taken: 4436.3 microseconds
+
+# of comparisons for 1000 item list in random order: 345562
+Time taken: 1283.1 microseconds
+
+# of comparisons for 8000 item list in ascending order: 7999
+Time taken: 23.2 microseconds
+
+# of comparisons for 4000 item list in ascending order: 3999
+Time taken: 10.7 microseconds
+
+# of comparisons for 2000 item list in ascending order: 1999
+Time taken: 14.1 microseconds
+
+# of comparisons for 1000 item list in ascending order: 999
+Time taken: 6.8 microseconds
+
+# of comparisons for 8000 item list in descending order: 32003999
+Time taken: 155408 microseconds
+
+# of comparisons for 4000 item list in descending order: 8001999
+Time taken: 26433.4 microseconds
+
+# of comparisons for 2000 item list in descending order: 2000999
+Time taken: 10067.8 microseconds
+
+# of comparisons for 1000 item list in descending order: 500499
+Time taken: 1483.9 microseconds
+
+
+Quick Sort R:
+------------------------------------------------------------
+# of comparisons for 8000 item list in random order: 605089
+Time taken: 4615.5 microseconds
+
+# of comparisons for 4000 item list in random order: 227938
+Time taken: 1830.1 microseconds
+
+# of comparisons for 2000 item list in random order: 73597
+Time taken: 777.1 microseconds
+
+# of comparisons for 1000 item list in random order: 26857
+Time taken: 348.9 microseconds
+
+# of comparisons for 8000 item list in ascending order: 621569
+Time taken: 3901.9 microseconds
+
+# of comparisons for 4000 item list in ascending order: 215971
+Time taken: 2269.2 microseconds
+
+# of comparisons for 2000 item list in ascending order: 72837
+Time taken: 1024.4 microseconds
+
+# of comparisons for 1000 item list in ascending order: 31376
+Time taken: 358 microseconds
+
+# of comparisons for 8000 item list in descending order: 715457
+Time taken: 4638.5 microseconds
+
+# of comparisons for 4000 item list in descending order: 228473
+Time taken: 1656.3 microseconds
+
+# of comparisons for 2000 item list in descending order: 78101
+Time taken: 1296.3 microseconds
+
+# of comparisons for 1000 item list in descending order: 29759
+Time taken: 531.3 microseconds
+
+
+Quick Sort M:
+------------------------------------------------------------
+# of comparisons for 8000 item list in random order: 112852
+Time taken: 1760 microseconds
+
+# of comparisons for 4000 item list in random order: 48260
+Time taken: 794.1 microseconds
+
+# of comparisons for 2000 item list in random order: 21598
+Time taken: 323.5 microseconds
+
+# of comparisons for 1000 item list in random order: 9714
+Time taken: 204.9 microseconds
+
+# of comparisons for 8000 item list in ascending order: 5351322
+Time taken: 21729.3 microseconds
+
+# of comparisons for 4000 item list in ascending order: 1342324
+Time taken: 5624.1 microseconds
+
+# of comparisons for 2000 item list in ascending order: 337826
+Time taken: 1255.9 microseconds
+
+# of comparisons for 1000 item list in ascending order: 85578
+Time taken: 361.6 microseconds
+
+# of comparisons for 8000 item list in descending order: 110419
+Time taken: 916.3 microseconds
+
+# of comparisons for 4000 item list in descending order: 50713
+Time taken: 489.2 microseconds
+
+# of comparisons for 2000 item list in descending order: 22779
+Time taken: 196 microseconds
+
+# of comparisons for 1000 item list in descending order: 10039
+Time taken: 91.9 microseconds
+
+
+Heap Sort:
+------------------------------------------------------------
+# of comparisons for 8000 item list in random order: 201402
+Time taken: 2693.1 microseconds
+
+# of comparisons for 4000 item list in random order: 92636
+Time taken: 1640.3 microseconds
+
+# of comparisons for 2000 item list in random order: 42224
+Time taken: 767.8 microseconds
+
+# of comparisons for 1000 item list in random order: 19236
+Time taken: 289.4 microseconds
+
+# of comparisons for 8000 item list in ascending order: 213276
+Time taken: 3000.1 microseconds
+
+# of comparisons for 4000 item list in ascending order: 98284
+Time taken: 1322.5 microseconds
+
+# of comparisons for 2000 item list in ascending order: 44600
+Time taken: 340.1 microseconds
+
+# of comparisons for 1000 item list in ascending order: 20416
+Time taken: 188.3 microseconds
+
+# of comparisons for 8000 item list in descending order: 189552
+Time taken: 1827.8 microseconds
+
+# of comparisons for 4000 item list in descending order: 86872
+Time taken: 847.8 microseconds
+
+# of comparisons for 2000 item list in descending order: 39416
+Time taken: 902.7 microseconds
+
+# of comparisons for 1000 item list in descending order: 17632
+Time taken: 266.5 microseconds
+
+
+3 Way Merge Sort:
+------------------------------------------------------------
+# of comparisons for 8000 item list in random order: 116151
+Time taken: 1290.5 microseconds
+
+# of comparisons for 4000 item list in random order: 52958
+Time taken: 919.7 microseconds
+
+# of comparisons for 2000 item list in random order: 23936
+Time taken: 431.6 microseconds
+
+# of comparisons for 1000 item list in random order: 10749
+Time taken: 206.8 microseconds
+
+# of comparisons for 8000 item list in ascending order: 64215
+Time taken: 794.1 microseconds
+
+# of comparisons for 4000 item list in ascending order: 29666
+Time taken: 353.2 microseconds
+
+# of comparisons for 2000 item list in ascending order: 13441
+Time taken: 250.2 microseconds
+
+# of comparisons for 1000 item list in ascending order: 6187
+Time taken: 79.1 microseconds
+
+# of comparisons for 8000 item list in descending order: 65742
+Time taken: 822.8 microseconds
+
+# of comparisons for 4000 item list in descending order: 30320
+Time taken: 349 microseconds
+
+# of comparisons for 2000 item list in descending order: 13821
+Time taken: 268.6 microseconds
+
+# of comparisons for 1000 item list in descending order: 6308
+Time taken: 71.4 microseconds
